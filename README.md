@@ -57,5 +57,6 @@ MazeGame/
 ---
 
 ## 📜 License
+This project is for personal/educational use only.
 This project is licensed under the **MIT License** — feel free to use and modify with attribution.
 
