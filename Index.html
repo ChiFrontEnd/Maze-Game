@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Maze Game</title>
+<link rel="icon"
+      href="data:image/svg+xml,
+      <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
+        <text y='0.9em' font-size='90'>🧩</text>
+      </svg>">
+      
+<link rel="stylesheet" href="Style.css" />
+
+</head>
+<body>
+
+<div class="instructions" id="instructions">
+  <div class="box">
+    <h1>🧩 Maze Escape</h1>
+
+    <ul>
+      <li>Use ⬅️ ⬆️ ⬇️ ➡️ keys to move</li>
+      <li>Find a path to the 🏠 house</li>
+      <li>Multiple paths exist — choose wisely</li>
+      <li>Each level gets bigger & harder</li>
+    </ul>
+
+    <button onclick="startGame()">Start Game</button>
+  </div>
+</div>
+
+<h2 id="levelText">Level 1</h2>
+
+<canvas id="game"></canvas>
+
+<div class="controls">
+  <div></div>
+  <button onclick="move(0,-1)">↑</button>
+  <div></div>
+  <button onclick="move(-1,0)">←</button>
+  <button onclick="move(0,1)">↓</button>
+  <button onclick="move(1,0)">→</button>
+</div>
+
+<div class="overlay" id="win">
+  <div class="box">
+    <h1>🎉 Level Complete!</h1>
+    <p>Next level loading…</p>
+  </div>
+</div>
+
+  <footer>
+    <p>🧩 Maze Escape • © 2026 Trupti</p> 
+    <p>Built with 🧠 using HTML, CSS & JavaScript</p>
+  </footer>
+
+  <script src="Script.js"></script>
+
+</body>
+</html>
