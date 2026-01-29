@@ -48,11 +48,10 @@ MazeEscape/
 ---
 
 ## 🧑‍💻 Author
-Developed by **Trupti**  
-Junior Database Administrator & Frontend Developer  
-Specializing in SQL Server, ETL automation, and creative UI/UX with React.js  
-
-🔗 [Portfolio](https://yourportfolio.com) • [GitHub](https://github.com/yourusername)
+---
+    Auther Name:     Trupti Y. Sabale  
+    Created:         29-Jan-2026
+    Updated:         -
 
 ---
 
