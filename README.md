@@ -24,13 +24,14 @@ Each level gets progressively larger and more challenging, testing your logic an
 ---
 
 ## 📂 Project Structure
-MazeEscape/
-│── index.html       # Main game page
+```text
+MazeGame/
+│
+├── index.html       # Main game page
 │── Style.css        # Game styling
 │── Script.js        # Game logic (maze generation, movement, levels)
 │── README.md        # Documentation
-
-
+```
 ---
 
 ## 🖼️ Screenshots
