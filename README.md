@@ -35,7 +35,7 @@ MazeGame/
 ---
 
 ## 🖼️ Screenshots
-![Screenshot of Gallery](Image.png)
+![Screenshot of Gallery](Images/Image.PNG)
 
 ---
 
