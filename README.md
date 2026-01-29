@@ -48,6 +48,13 @@ MazeGame/
 
 ---
 
+## 🤝 Contributing
+Pull requests are welcome!  
+For major changes, please open an issue first to discuss what you’d like to improve.  
+Suggestions for new BTS events, UI polish, or ARMY-inspired features are especially encouraged 💜.  
+
+---
+
 ## 🧑‍💻 Author
 ---
     Auther Name:     Trupti Y. Sabale  
