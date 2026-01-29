@@ -64,5 +64,3 @@ For major changes, please open an issue first to discuss what you’d like to im
 
 ## 📜 License
 This project is for personal/educational use only.
-This project is licensed under the **MIT License** — feel free to use and modify with attribution.
-
