@@ -7,12 +7,12 @@ Each level gets progressively larger and more challenging, testing your logic an
 ---
 
 ## 🎮 Features
-- **Keyboard controls** (⬅️ ⬆️ ⬇️ ➡️) for smooth movement
-- **On-screen buttons** for mobile/touch users
-- **Procedural maze generation** using Depth-First Search (DFS)
-- **Extra paths/loops** for multiple solutions
-- **Level progression** with increasing difficulty
-- **Overlay feedback** when a level is completed
+- **Keyboard controls** (⬅️ ⬆️ ⬇️ ➡️) for smooth movement.
+- **On-screen buttons** for mobile/touch users.
+- **Procedural maze generation** using Depth-First Search (DFS).
+- **Extra paths/loops** for multiple solutions.
+- **Level progression** with increasing difficulty.
+- **Overlay feedback** when a level is completed.
 
 ---
 
